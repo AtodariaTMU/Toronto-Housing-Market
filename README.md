@@ -34,6 +34,12 @@ developers, and anyone interested in the Toronto housing market.
 Contact
 If you have any questions or feedback about this project, please feel free to reach out to me at vaidehiatodaria8@gmail.com. Thanks for checking out my work!
 
+## Accessing the Files
+
+To view the Jupyter Notebook file, you can use the [nbviewer](https://nbviewer.jupyter.org/) tool:
+
+- [Toronto housing market Python.ipynb](https://nbviewer.jupyter.org/github/AtodariaTMU/Toronto-Housing-Market/Toronto%20housing%20market%20Python.ipynb)
+
 
 
 
