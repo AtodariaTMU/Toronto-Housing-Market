@@ -37,7 +37,8 @@ If you have any questions or feedback about this project, please feel free to re
 ## Accessing the Files
 
 To view the Jupyter Notebook file, you can use the [nbviewer](https://nbviewer.jupyter.org/) tool:
-https://nbviewer.jupyter.org/github/AtodariaTMU/Toronto-Housing-Market/blob/main/Toronto%20housing%20market%20Python.ipynb
+
+https://github.com/AtodariaTMU/Toronto-Housing-Market/blob/main/Toronto%20housing%20market%20Python.ipynb
 
 
 
