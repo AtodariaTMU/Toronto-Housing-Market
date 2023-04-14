@@ -29,7 +29,7 @@ presentation file.
 The Toronto Housing Market Analysis project was created to gain a deeper understanding of the housing market in Toronto, and 
 to explore the factors that influence housing prices in the city. Through data cleaning, exploratory data analysis, and data
 visualization using Python and various libraries, the project aims to provide insights that can be useful for real estate investors, 
-developers, and anyone interested in the Toronto housing market.
+developers, and anyone interested in the Toronto housing market.<br>
 
 Contact
 If you have any questions or feedback about this project, please feel free to reach out to me at vaidehiatodaria8@gmail.com. Thanks for checking out my work!
