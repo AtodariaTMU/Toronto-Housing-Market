@@ -35,8 +35,8 @@ Contact
 If you have any questions or feedback about this project, please feel free to reach out to me at vaidehiatodaria8@gmail.com. Thanks for checking out my work!
 
 ## Accessing the Files
+https://nbviewer.jupyter.org/github/AtodariaTMU/Toronto-Housing-Market/blob/main/Torontohousingpython.ipynb
 
-https://github.com/AtodariaTMU/Toronto-Housing-Market/blob/main/Toronto%20housing%20market%20Python%20.ipynb
 
 
 
